@@ -36,13 +36,6 @@
 
 ---
 
-### 🎓 Education
-- **서울대학교** 데이터사이언스학과 석사
-- **UIUC** 통계학 & 경제학 학사
-
----
-
 ### 📬 Contact
 - **Email:** leeccuu@gmail.com
-- **GitHub:** [github.com/uksnotes](https://github.com/uksnotes)
-- **Portfolio Website:** [uksnotes.github.io](https://uksnotes.github.io)
+- **Portfolio Website:** https://github.com/uksnotes/portfolio
